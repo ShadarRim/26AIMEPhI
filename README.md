@@ -19,7 +19,9 @@
 
 Домашние задания бывают обязательные и необязательные. Все ДЗ, что с номерами - обязательные. 
 
-[0] [Контест на Python](https://contest.yandex.ru/contest/99010/enter) 
+[0] [Тренировка на Python](https://contest.yandex.ru/contest/99010/enter) \
+[1] [Тренировка numpy](https://contest.yandex.ru/contest/99505/enter) \
+[2] [Тренировка pandas](https://contest.yandex.ru/contest/99506/enter)
 
 # Домашенее задание весеннего семестра
 
