@@ -13,7 +13,8 @@
 
 # Самостоятельная работа на паре
 
-[0] [Python](https://contest.yandex.ru/contest/99434/enter)
+[0] [Python](https://contest.yandex.ru/contest/99434/enter)\
+[1] [NumPy](https://contest.yandex.ru/contest/99832/enter)
 
 # Домашнее задание осеннего семестра
 
